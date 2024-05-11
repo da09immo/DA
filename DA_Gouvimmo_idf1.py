@@ -182,7 +182,7 @@ with col[0]:
         
  if page == pages[3] :
     # Define the base path to the model directory
-    BASE_PATH = r'DA\idf'  # Ensure this is the correct path where your models are stored
+    BASE_PATH = './idf'  # Ensure this is the correct path where your models are stored
     
     # Possible choices for regions and models
     department = [
